@@ -1,0 +1,17 @@
+# Created by trellis-cli v1.11.1
+# Documentation: https://roots.io/trellis/docs/vault/
+
+vault_mysql_root_password: FuEfRiYoeWn6YMdaKDIYyRZw73pgKXdFLlcIHpNW3yFVQGcD9weJqda3icb0K0iM
+vault_wordpress_sites:
+  lefairmag.com:
+    admin_password: zGcMc0gGaHPKhVnorPtzjybKH8utnvGNTq5Taea4brwNZCNF1W3FD70N4imcxO3O
+    env:
+      db_password: 2bxLpNaIqQ4YfwaWzof3qh67rhXFyNiJWiWUPegzjKG49QD04V1mmRXIoNcmPJUK
+      auth_key: 6MWdx7eViYBWBFZzYWfgB0tlGMAlTbKnViQsxuQhLFMwFq4gLtkJM79w3SO3yjhI
+      secure_auth_key: mPT4dMeoFHgRQ0M3AqhPbFKPcv3QZXmcldYd5C0rW80VhjhDWjo3PPFHOc492COk
+      logged_in_key: 5Zdy8cvcPvCKShVeIGPs6xmK4wLnTLGlegaRuRyIcAsD6lxQu1TcEVNOZSezCdSW
+      nonce_key: t3Ng0fzzt6iBqy7q3RAs7EXodeAXbNdbPpAMxijoRRhjvRDQk10JfAMZhwaMAtO8
+      auth_salt: gyn4hAKrHwVhhLyxQQUVTzoCSeOIbB6HuNvVnatzEV99LahIHDovnpSmm58tFdZH
+      secure_auth_salt: vthGGebXry48q7TCPaRbDrRM1VP93YcvZ9bHmh6GwuOymBiL1VZQdLVJx2Y70kmd
+      logged_in_salt: 8WPrGglwhGrigf64pBTIifou6gMItIEdiiU4J5ulSzXE0kDCO9O5LZpRMA3k18AA
+      nonce_salt: riiNtlifGdP06O547N3A1DZkajbYZOHMdWDMixeNb0CKbbq0vZNyEvUOaLWQPXah

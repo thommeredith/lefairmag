@@ -1,0 +1,6030 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CSSJockey Membership Modules v1.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-11 15:09+0530\n"
+"POT-Revision-Date: Fri Apr 24 2015 16:57:10 GMT+0530 (IST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Mohit Aneja <support@cssjockey.com>\n"
+"Language-Team: CSSJockey <support@cssjockey.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ."
+
+# @ cjfm
+#: ../item_setup.php:40
+#, php-format
+msgid "Approve Accounts <span class=\"badge badge-warning\">%d</span>"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:41
+#, php-format
+msgid "Approve Accounts <span class=\"badge badge-default\">%d</span>"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:62 ../framework/includes/admin_page.php:22 ..
+#: /framework/includes/sample-code/core_maintenance_mode.php:11 ..
+#: /framework/includes/sample-code/core_maintenance_mode.php:17 ..
+#: /options/cjfm_maintenance_settings.php:11 ../options/cjfm_maintenance_settings.
+#: php:17
+msgid "Maintenance Mode"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:63
+msgid "Basic Configuration"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:64 ../options/cjfm_page_setup.php:11
+msgid "Page Setup"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:65 ../options/cjfm_restrict_content.php:16
+msgid "Restricted Content"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:66 ../options/cjfm_spam_protection.php:74
+msgid "Spam Protection"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:67 ../options/cjfm_social_login.php:15
+msgid "Social Login Setup"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:68
+msgid "Modalbox Forms"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:69 ../options/cjfm_auth_page.php:44
+msgid "Custom Auth Page"
+msgstr ""
+
+#: ../item_setup.php:70
+msgid "Role Based Redirects"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:71 ../options/cjfm_customize.php:187
+msgid "Custom CSS or Javascript"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:73
+msgid "Customize Forms"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:75
+msgid "Email Configuration"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:76
+msgid "Dynamic Variables"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:77
+msgid "Registration Emails"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:78
+msgid "Reset Password Emails"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:80
+msgid "Import/Export Users"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:84 ../options/cjfm_configuration.php:39
+msgid "Configuration"
+msgstr ""
+
+#: ../item_setup.php:85
+msgid "Customize Email Messages"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:98
+#, php-format
+msgid "Awaiting Approvals (%d)"
+msgstr ""
+
+# @ cjfm
+#: ../item_setup.php:99
+#, php-format
+msgid "Declined Invitations (%d)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:427
+msgid "Opiton ID not defined, please check code."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1034
+msgid "Just now"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1045
+msgid "year"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1046
+msgid "month"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1047
+msgid "day"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1048
+msgid "hour"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1049
+msgid "minute"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1050
+msgid "second"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1053
+msgid "years"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1054
+msgid "months"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1055
+msgid "days"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1056
+msgid "hours"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1057
+msgid "minutes"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1058
+msgid "seconds"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1064
+msgid "ago"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1178 ../framework/framework.php:1242
+#, php-format
+msgid "File size must be below %s kilobytes."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1184 ../framework/framework.php:1248
+#, php-format
+msgid "Image width must be %s pixels."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1188 ../framework/framework.php:1252
+#, php-format
+msgid "Image height must be %s pixels."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1192 ../framework/framework.php:1256
+msgid "Invalid file type."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1353
+msgid "Oops!! Page not found."
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1354 ../framework/framework.php:1364
+#, php-format
+msgid "Archive for <span class=\"highlight-term\">\"%s\"</span>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1356
+msgid "Articles posted by: "
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1357
+#, php-format
+msgid "Archive for <span class=\"highlight-term\">\"%s\"</span> category"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1359
+msgid "Recent Blog Posts"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1361
+#, php-format
+msgid "Search results for <span class=\"highlight-term\">\"%s\"</span>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1363
+#, php-format
+msgid "Posts tagged <span class=\"highlight-term\">\"%s\"</span>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1665
+msgid "Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1666 ../framework/includes/admin_page.php:25
+msgid "Uninstall"
+msgstr ""
+
+# @ cjfm
+#: ../framework/framework.php:1704 ../framework/includes/admin_form.php:287 ..
+#: /framework/includes/admin_form.php:376 ../framework/includes/admin_form.php:
+#: 397 ../framework/includes/admin_form.php:418 ../framework/includes/admin_form.
+#: php:441 ../framework/includes/admin_form.php:464 ..
+#: /framework/includes/admin_form.php:489 ../framework/includes/admin_form.php:
+#: 510 ../framework/includes/admin_form.php:531 ../framework/includes/admin_form.
+#: php:561 ../framework/includes/admin_form.php:599 ..
+#: /framework/includes/admin_form.php:623 ../framework/includes/admin_form.php:
+#: 644 ../framework/includes/admin_form.php:666 ../framework/includes/admin_form.
+#: php:687 ../framework/includes/admin_form.php:711 ..
+#: /framework/includes/admin_form.php:732 ../framework/includes/admin_form_raw.
+#: php:282 ../framework/includes/admin_form_raw.php:421 ..
+#: /framework/includes/admin_form_raw.php:442 ..
+#: /framework/includes/admin_form_raw.php:463 ..
+#: /framework/includes/admin_form_raw.php:486 ..
+#: /framework/includes/admin_form_raw.php:509 ..
+#: /framework/includes/admin_form_raw.php:534 ..
+#: /framework/includes/admin_form_raw.php:555 ..
+#: /framework/includes/admin_form_raw.php:576 ..
+#: /framework/includes/admin_form_raw.php:606 ..
+#: /framework/includes/admin_form_raw.php:645 ..
+#: /framework/includes/admin_form_raw.php:668 ..
+#: /framework/includes/admin_form_raw.php:689 ..
+#: /framework/includes/admin_form_raw.php:711 ..
+#: /framework/includes/admin_form_raw.php:732 ..
+#: /framework/includes/admin_form_raw.php:754 ..
+#: /framework/includes/admin_form_raw.php:775 ..
+#: /framework/includes/admin_form_raw.php:799 ..
+#: /framework/includes/admin_form_raw.php:820 ../options/cjfm_customize.php:21 ..
+#: /options/cjfm_spam_protection.php:10 ../options/cjfm_spam_protection.php:95
+msgid "None"
+msgstr ""
+
+#: ../framework/framework.php:1772 ../framework/framework.php:1775 ..
+#: /framework/framework.php:1826
+msgid "No locations found."
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:28
+msgid "Test Metabox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:36 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:270
+msgid "Test Text"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:37 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:48 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:55 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:62 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:70 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:77 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:89 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:95 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:102 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:117 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:125 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:132 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:138 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:144 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:156 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:167 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:178 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:189 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:197 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:204 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:212 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:218 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:230 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:271 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:337 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:344 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:351 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:357 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:363 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:369 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:375 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:393
+msgid "field description (optional)"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:47
+msgid "Test Text Small"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:54
+msgid "Test Text Medium"
+msgstr ""
+
+# @ cmb
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:61 ..
+#: /options/cjfm_customize_fields.php:39
+msgid "Website URL"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:69
+msgid "Test Text Email"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:76
+msgid "Test Time"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:82 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:83
+msgid "Time zone"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:88
+msgid "Test Date Picker"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:94
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:101
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:116
+msgid "Test Money"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:124
+msgid "Test Color Picker"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:131
+msgid "Test Text Area"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:137
+msgid "Test Text Area Small"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:143
+msgid "Test Text Area for Code"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:149
+msgid "Test Title Weeeee"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:150
+msgid "This is a title description"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:155
+msgid "Test Select"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:160 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:171 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:182
+msgid "Option One"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:161 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:172 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:183
+msgid "Option Two"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:162 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:173 ..
+#: /framework/assets/admin/helpers/metabox/example-functions.php:184
+msgid "Option Three"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:166
+msgid "Test Radio inline"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:177
+msgid "Test Radio"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:188
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:196
+msgid "Test Taxonomy Select"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:203
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:211
+msgid "Test Checkbox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:217
+msgid "Test Multi Checkbox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:222
+msgid "Check One"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:223
+msgid "Check Two"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:224
+msgid "Check Three"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:229
+msgid "Test wysiwyg"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:236
+msgid "Test Image"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:237
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:242
+msgid "Multiple Files"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:243
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:249
+msgid "oEmbed"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:250
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:262
+msgid "About Page Metabox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:283
+msgid "Repeating Field Group"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:289
+msgid "Generates reusable form entries"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:291
+msgid "Entry {#}"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:292
+msgid "Add Another Entry"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:293
+msgid "Remove Entry"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:330
+msgid "User Profile Metabox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:336
+msgid "Extra Info"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:343
+msgid "Avatar"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:350
+msgid "Facebook URL"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:356
+msgid "Twitter URL"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:362
+msgid "Google+ URL"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:368
+msgid "Linkedin URL"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:374
+msgid "User Field"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:388
+msgid "Theme Options Metabox"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/example-functions.php:392
+msgid "Site Background Color"
+msgstr ""
+
+# @ default
+#: ../framework/assets/admin/helpers/metabox/init.php:258
+msgid "Clear"
+msgstr ""
+
+# @ default
+#: ../framework/assets/admin/helpers/metabox/init.php:259
+msgid "Default"
+msgstr ""
+
+# @ default
+#: ../framework/assets/admin/helpers/metabox/init.php:260
+msgid "Select Color"
+msgstr ""
+
+# @ default
+#: ../framework/assets/admin/helpers/metabox/init.php:261
+msgid "Current Color"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+# @ default
+#: ../framework/assets/admin/helpers/metabox/init.php:1179
+msgid "Save"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:20
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:21
+msgid "Type Postal Code to search for address"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:24
+msgid "Type postal code to find address."
+msgstr ""
+
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:26 
+#: ../options/cjfm_customize_fields.php:46
+msgid "Address Line 1"
+msgstr ""
+
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:27 
+#: ../options/cjfm_customize_fields.php:47
+msgid "Address Line 2"
+msgstr ""
+
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:28 
+#: ../options/cjfm_customize_fields.php:48
+msgid "City"
+msgstr ""
+
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:29 
+#: ../options/cjfm_customize_fields.php:49
+msgid "State"
+msgstr ""
+
+# @ cjfm
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:30 
+#: ../options/cjfm_customize_fields.php:51
+msgid "Country"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:32 
+#: ../framework/assets/admin/helpers/metabox/extensions/lnglat.php:14
+msgid "Latitude"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/address-by-zipcode.php:33 
+#: ../framework/assets/admin/helpers/metabox/extensions/lnglat.php:15
+msgid "Longitude"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/background_properties.php:
+#: 18
+msgid "Backgound Repeat"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/background_properties.php:
+#: 31
+msgid "Backgound Size"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/background_properties.php:
+#: 44
+msgid "Backgound Position"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/background_properties.php:
+#: 57
+msgid "Backgound Attachment"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:20
+msgid "Border Top (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:25
+msgid "Border Right (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:30
+msgid "Border Bottom (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:35
+msgid "Border Left (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:40
+msgid "Border Style"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/border.php:53
+msgid "Border Color (#HEX)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:18
+msgid "Padding Top (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:23
+msgid "Padding Right (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:28
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:33
+msgid "Padding Left (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:59
+msgid "Margin Top (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:64
+msgid "Margin Right (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:69
+msgid "Margin Bottom (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/padding_margin.php:74
+msgid "Margin Left (px)"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/working_hours.php:13
+msgid "Day"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/working_hours.php:15
+msgid "Starttime"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/working_hours.php:16
+msgid "Endtime"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/working_hours.php:28
+msgid "Start Time"
+msgstr ""
+
+#: ../framework/assets/admin/helpers/metabox/extensions/working_hours.php:29
+msgid "End Time"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+# @ cjfm
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:306 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:706 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:768 ..
+#: /options/cjfm_customize_fields.php:174 ../options/cjfm_customize_fields.php:
+#: 180 ../options/cjfm_invitations.php:161 ../options/cjfm_invitations_declined.
+#: php:71
+msgid "Remove"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:601 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:674 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:695 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:706 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+# @ cmb
+#: ../framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:706 ..
+#: /framework/assets/admin/helpers/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_ajax.php:55 ../framework/includes/shortcode-
+#: generator-backup/cj_shortcode_generator_panel.php:49
+msgid "Select Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_ajax.php:102
+msgid "Shortcode Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_ajax.php:123 ../framework/includes/sample-
+#: code/metabox_sample.php:56
+msgid "Content"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_ajax.php:151
+msgid "Insert Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:32
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:37
+msgid "Settings saved successfully."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:83 ../framework/includes/admin_form.php:84
+msgid ""
+"Are you sure?\n"
+"This canont be undone."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:83
+msgid "Reset Section"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:84
+msgid "Reset All"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:189 ../framework/includes/admin_form.php:
+#: 189 ../framework/includes/admin_form_raw.php:149 ..
+#: /framework/includes/admin_form_raw.php:149 ..
+#: /framework/includes/admin_form_raw.php:180 ..
+#: /framework/includes/admin_form_raw.php:180
+msgid "Top"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:190 ../framework/includes/admin_form.php:
+#: 190 ../framework/includes/admin_form_raw.php:150 ..
+#: /framework/includes/admin_form_raw.php:150 ..
+#: /framework/includes/admin_form_raw.php:181 ..
+#: /framework/includes/admin_form_raw.php:181
+msgid "Bottom"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:191 ../framework/includes/admin_form.php:
+#: 191 ../framework/includes/admin_form_raw.php:151 ..
+#: /framework/includes/admin_form_raw.php:151 ..
+#: /framework/includes/admin_form_raw.php:182 ..
+#: /framework/includes/admin_form_raw.php:182
+msgid "Left"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:192 ../framework/includes/admin_form.php:
+#: 192 ../framework/includes/admin_form_raw.php:152 ..
+#: /framework/includes/admin_form_raw.php:152 ..
+#: /framework/includes/admin_form_raw.php:183 ..
+#: /framework/includes/admin_form_raw.php:183 ..
+#: /framework/includes/admin_form_raw.php:184
+msgid "Right"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:474 ../framework/includes/admin_form_raw.
+#: php:519
+msgid "No custom post types found"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:820 ../framework/includes/admin_form.php:
+#: 1165 ../framework/includes/admin_form_raw.php:908 ..
+#: /framework/includes/admin_form_raw.php:1279
+msgid "Upload File"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:853 ../framework/includes/admin_form_raw.
+#: php:942
+msgid "Upload Files"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1005 ../framework/includes/admin_form.php:
+#: 1022 ../framework/includes/admin_form.php:1048 ..
+#: /framework/includes/admin_form_raw.php:1119 ..
+#: /framework/includes/admin_form_raw.php:1136 ..
+#: /framework/includes/admin_form_raw.php:1162
+msgid "Inherit"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1006 ../framework/includes/admin_form_raw.
+#: php:1120
+msgid "Bold"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1007 ../framework/includes/admin_form_raw.
+#: php:1121
+msgid "Bolder"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1008 ../framework/includes/admin_form.php:
+#: 1025 ../framework/includes/admin_form_raw.php:1122 ..
+#: /framework/includes/admin_form_raw.php:1139 ../options/cjfm_configuration.php:19
+msgid "Normal"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1009 ../framework/includes/admin_form_raw.
+#: php:1123
+msgid "Lighter"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1010 ../framework/includes/admin_form_raw.
+#: php:1124
+msgid "100"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1011 ../framework/includes/admin_form_raw.
+#: php:1125
+msgid "200"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1012 ../framework/includes/admin_form_raw.
+#: php:1126
+msgid "300"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1013 ../framework/includes/admin_form_raw.
+#: php:1127
+msgid "400"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1014 ../framework/includes/admin_form_raw.
+#: php:1128
+msgid "500"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1015 ../framework/includes/admin_form_raw.
+#: php:1129
+msgid "600"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1016 ../framework/includes/admin_form_raw.
+#: php:1130
+msgid "700"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1017 ../framework/includes/admin_form_raw.
+#: php:1131
+msgid "800"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1018 ../framework/includes/admin_form_raw.
+#: php:1132
+msgid "900"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1023 ../framework/includes/admin_form_raw.
+#: php:1137
+msgid "Italic"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1024 ../framework/includes/admin_form_raw.
+#: php:1138
+msgid "Oblique"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1071 ../framework/includes/admin_form_raw.
+#: php:1185
+msgid "Family:"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1076 ../framework/includes/admin_form_raw.
+#: php:1190
+msgid "Size:"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1083 ../framework/includes/admin_form_raw.
+#: php:1197
+msgid "Weight:"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1088 ../framework/includes/admin_form_raw.
+#: php:1202
+msgid "Style:"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1093 ../framework/includes/admin_form_raw.
+#: php:1207
+msgid "Line Height:"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1144 ../framework/includes/admin_form_raw.
+#: php:1258
+msgid "Transparent"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1164 ../framework/includes/admin_form_raw.
+#: php:1278
+msgid "Upload background image"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1176 ../framework/includes/admin_form.php:
+#: 1201 ../framework/includes/admin_form.php:1228 ..
+#: /framework/includes/admin_form.php:1251 ../framework/includes/admin_form_raw.
+#: php:1290 ../framework/includes/admin_form_raw.php:1315 ..
+#: /framework/includes/admin_form_raw.php:1342 ..
+#: /framework/includes/admin_form_raw.php:1365
+msgctxt "cjfm"
+msgid "Inherit"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1177 ../framework/includes/admin_form_raw.
+#: php:1291
+msgctxt "cjfm"
+msgid "Repeat All"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1178 ../framework/includes/admin_form_raw.
+#: php:1292
+msgctxt "cjfm"
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1179 ../framework/includes/admin_form_raw.
+#: php:1293
+msgctxt "cjfm"
+msgid "Repeat Vertical"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1180 ../framework/includes/admin_form_raw.
+#: php:1294
+msgctxt "cjfm"
+msgid "Do not repeat"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1190 ../framework/includes/admin_form_raw.
+#: php:1304
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1202 ../framework/includes/admin_form_raw.
+#: php:1316
+msgctxt "cjfm"
+msgid "Cover"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1203 ../framework/includes/admin_form_raw.
+#: php:1317
+msgctxt "cjfm"
+msgid "Contain"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1213 ../framework/includes/admin_form_raw.
+#: php:1327
+msgid "Background Size"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1229 ../framework/includes/admin_form_raw.
+#: php:1343
+msgctxt "cjfm"
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1230 ../framework/includes/admin_form_raw.
+#: php:1344
+msgctxt "cjfm"
+msgid "Scroll"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1240 ../framework/includes/admin_form_raw.
+#: php:1354
+msgid "Background Attachment"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1252 ../framework/includes/admin_form_raw.
+#: php:1366
+msgctxt "cjfm"
+msgid "top left"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1253 ../framework/includes/admin_form_raw.
+#: php:1367
+msgctxt "cjfm"
+msgid "top center"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1254 ../framework/includes/admin_form_raw.
+#: php:1368
+msgctxt "cjfm"
+msgid "top right"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1255 ../framework/includes/admin_form_raw.
+#: php:1369
+msgctxt "cjfm"
+msgid "bottom left"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1256 ../framework/includes/admin_form_raw.
+#: php:1370
+msgctxt "cjfm"
+msgid "bottom center"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1257 ../framework/includes/admin_form_raw.
+#: php:1371
+msgctxt "cjfm"
+msgid "bottom right"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1258 ../framework/includes/admin_form_raw.
+#: php:1372
+msgctxt "cjfm"
+msgid "center left"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1259 ../framework/includes/admin_form_raw.
+#: php:1373
+msgctxt "cjfm"
+msgid "center center"
+msgstr ""
+
+#: ../framework/includes/admin_form.php:1260 ../framework/includes/admin_form_raw.
+#: php:1374
+msgctxt "cjfm"
+msgid "center right"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form.php:1270 ../framework/includes/admin_form_raw.
+#: php:1384
+msgid "Background Position"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form_raw.php:184
+msgid "Style"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form_raw.php:185
+msgid "Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form_raw.php:301 ..
+#: /framework/includes/admin_form_raw.php:326
+msgid "Select"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form_raw.php:957
+msgid "Choose File"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_form_raw.php:969
+msgid "Choose Files"
+msgstr ""
+
+#: ../framework/includes/admin_page.php:10
+msgid ""
+"Dropdown key language strings not found in item_setup.php. Specify an array "
+"$cjfm_item_vars[\"localize_variables\"]"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_page.php:16
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_page.php:23
+msgid "Check for Upgrades"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_page.php:24
+msgid "Backup &amp; Restore"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_page.php:51
+msgid "Javascript must be enabled."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/admin_page.php:66
+#, php-format
+msgid "<b>%s.php</b> not found in options or addons directory."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/cj-products.php:29
+msgid "Other CSSJockey Products"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/cj-products.php:45 ../framework/includes/cj-products.php:
+#: 56
+msgid "View Details"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/cj-products.php:62
+#, php-format
+msgid "No products or add-ons found matched your query. <a href=\"%s\">View All</a>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/db_setup.php:63
+#, php-format
+msgid ""
+"<p><strong>ERROR</strong>: Duplicate options found!  <br /><b>%s <br "
+"/>(%s)</b></p>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_form.php:53
+msgid "Please select"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_generator.php:37 ..
+#: /framework/includes/shortcode_generator.php:58
+msgid "Select shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_generator.php:64 ..
+#: /options/cjfm_customize_fields.php:119
+msgid "Options"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_generator.php:102 ..
+#: /framework/includes/shortcode_generator.php:121
+msgid "Please Select "
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_generator.php:152
+#, php-format
+msgid "Shortcode Generator (%s)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode_generator.php:159
+msgid "Choose a shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/widget_options_form.php:57 ..
+#: /framework/includes/widget_options_form.php:76
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/widget_options_form.php:98
+msgid "No options available for this widget."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:196 ..
+#: /framework/includes/install-plugins/register_plugins.php:65
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:197 ..
+#: /framework/includes/install-plugins/register_plugins.php:66
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:198 ..
+#: /framework/includes/install-plugins/register_plugins.php:67
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:202 ..
+#: /framework/includes/install-plugins/register_plugins.php:71
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:203 ..
+#: /framework/includes/install-plugins/register_plugins.php:72
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:204 ..
+#: /framework/includes/install-plugins/register_plugins.php:73
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:205 ..
+#: /framework/includes/install-plugins/register_plugins.php:74
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:207 ..
+#: /framework/includes/install-plugins/register_plugins.php:76
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:208 ..
+#: /framework/includes/install-plugins/register_plugins.php:77
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:209 ..
+#: /framework/includes/install-plugins/register_plugins.php:78
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:210 ..
+#: /framework/includes/install-plugins/register_plugins.php:79
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:212 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1951 ..
+#: /framework/includes/install-plugins/register_plugins.php:80
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:213 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:544 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:544 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:2168 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+# @ cjfm
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1185 ..
+#: /options/cjfm_customize_fields.php:113
+msgid "Required"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1290 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1290 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1312 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1312 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2065 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2065 ..
+#: /framework/includes/install-plugins/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/register_plugins.php:68
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/includes/install-plugins/register_plugins.php:69
+#, php-format
+msgid "CSSJockey requires the following plugin: %1$s."
+msgid_plural "CSSJockey requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/includes/install-plugins/register_plugins.php:70
+#, php-format
+msgid "CSSJockey recommends the following plugin: %1$s."
+msgid_plural "CSSJockey recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/includes/install-plugins/register_plugins.php:75
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: ../framework/includes/install-plugins/register_plugins.php:81
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:21
+#, php-format
+msgid "Export %s Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:27
+msgid "Export Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:28
+msgid "Copy the contents and save it in a text file."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:69
+#, php-format
+msgid "Import %s Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:75 ..
+#: /framework/includes/options/core_import_export.php:85
+msgid "Import Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_import_export.php:76
+msgid "Paste the previously copied settings and click Import Settings."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_uninstall.php:25
+#, php-format
+msgid "Uninstall %s"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_uninstall.php:35
+msgid ""
+"<p>To uninstall this plugin, you can deactivate this plugin and then remove "
+"the following tables from your databse.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:31
+#, php-format
+msgid ""
+"<b>New version is available to download.</b> <br><a href=\"%s\" "
+"class=\"bold\">Click here</a> to download latest version."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:33
+#, php-format
+msgid "<b>You are using the latest version.</b> <br>Last checked on %s"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:61
+msgid "Envato Username is required."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:63
+msgid "Envato API Key is required."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:65
+msgid "Envato Item Purchase Code is required."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:75
+msgid "Could not verify purchase, please try again."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:99
+#, php-format
+msgid "%s ~ Verify Purchase"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:105
+msgid "Envato Username"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:106
+msgid "Specify your envato username here"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:115
+msgid "Envato API Key"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:116
+msgid ""
+"Specify your envato API Key here.<br>You can create or get your API Key from "
+"Envato Profile >> Settings >> API Keys."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:125
+msgid "Purchase Code"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:126
+msgid ""
+"Enter your item purchase code here.<br>You can download your purchase from "
+"Envato Profile >> Downloads Page"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_upgrades.php:135
+msgid "Verify Purchase"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:7 ../modules/functions/item-
+#: assistant.php:55 ../modules/functions/assistant/messages.php:9
+msgid "Quick Start Guide"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:8 ../modules/functions/item-
+#: assistant.php:56
+msgid "Documentation"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:9
+msgid "Support Fourm"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:12
+#, php-format
+msgid ""
+"Could not reset your license for this installation. <br><a target=\"_blank\" "
+"href=\"%s\">Click here</a> to create a support ticket."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:23 ..
+#: /framework/includes/options/core_welcome.php:35 ..
+#: /framework/includes/options/core_welcome.php:48
+msgid "Purchase code"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:27
+msgid "Verified & Active"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:28
+msgid ""
+"Are you sure?\n"
+"This will reset your license for this installation.\n"
+"You may use this license again on any installation."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:39
+msgid "Not Verified"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:52
+msgid "Local Server"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:52
+msgid ""
+"You will be asked to validate your purchase code to use this product on live "
+"server."
+msgstr ""
+
+#: ../framework/includes/options/core_welcome.php:64
+msgid "Contribute"
+msgstr ""
+
+#: ../framework/includes/options/core_welcome.php:68
+#, php-format
+msgid ""
+"<p>You can contribute to support further development and new features for "
+"this product.</p> <p><a target=\"_blank\" class=\"btn btn-danger\" "
+"href=\"%s\">Contribute</a></p>"
+msgstr ""
+
+#: ../framework/includes/options/core_welcome.php:73
+#, php-format
+msgid ""
+"You can download <a class=\"bold\" target=\"_blank\" href=\"%s\">Loco Translate "
+"WordPress Plugin (FREE)</a> to easily create language files within your "
+"WordPress dashboard without using Poedit software."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:83
+#, php-format
+msgid "%s Information"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:89
+msgid "Product Type"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:93
+#, php-format
+msgid "WordPress %s"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:99
+msgid "Product Name"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:109
+msgid "Product ID"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:119
+msgid "Installed Version"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:130
+msgid "License & Terms of use"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:134
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Click here</a> to view license and terms of use."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/options/core_welcome.php:140 ../modules/functions/item-
+#: assistant.php:52
+msgid "Help & Support"
+msgstr ""
+
+#: ../framework/includes/options/core_welcome.php:150
+msgid "Localization"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:22 ..
+#: /framework/includes/sample-code/metabox_sample.php:16 ..
+#: /modules/shortcodes/cjfm_user_profile.php:15 ../options/cjfm_configuration.php:
+#: 4 ../options/cjfm_maintenance_settings.php:22 ../options/cjfm_modalbox_forms.
+#: php:4 ../options/cjfm_restrict_content.php:5 ../options/cjfm_social_login.php:4
+msgid "Enable"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:22 ..
+#: /framework/includes/sample-code/metabox_sample.php:17 ..
+#: /modules/shortcodes/cjfm_user_profile.php:16 ../options/cjfm_configuration.php:
+#: 4 ../options/cjfm_maintenance_settings.php:22 ../options/cjfm_modalbox_forms.
+#: php:4 ../options/cjfm_restrict_content.php:5 ../options/cjfm_social_login.php:4
+msgid "Disable"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:27 ..
+#: /options/cjfm_maintenance_settings.php:27
+msgid "Page Content"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:31
+msgid ""
+"<h2>We will be right back</h2> <p>We are making some changes to our website."
+"</p>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:37 ..
+#: /framework/includes/sample-code/core_maintenance_mode.php:41 ..
+#: /options/cjfm_maintenance_settings.php:37 ../options/cjfm_maintenance_settings.
+#: php:41
+msgid "Page Styles"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:47 ..
+#: /options/cjfm_maintenance_settings.php:47
+msgid "Document Background Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:57 ..
+#: /options/cjfm_maintenance_settings.php:57
+msgid "Document Text Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:67 ..
+#: /options/cjfm_maintenance_settings.php:67
+msgid "Document Link Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:77 ..
+#: /options/cjfm_maintenance_settings.php:77
+msgid "Panel Background Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:87 ..
+#: /options/cjfm_auth_page.php:160 ../options/cjfm_maintenance_settings.php:87
+msgid "Panel Text Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:97 ..
+#: /options/cjfm_auth_page.php:170 ../options/cjfm_maintenance_settings.php:97
+msgid "Panel Link Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:107 ..
+#: /options/cjfm_auth_page.php:150 ../options/cjfm_maintenance_settings.php:107
+msgid "Panel Border Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:117 ..
+#: /options/cjfm_auth_page.php:300 ../options/cjfm_configuration.php:330 ..
+#: /options/cjfm_customize.php:227 ../options/cjfm_customize_emails.php:235 ..
+#: /options/cjfm_customize_emails_config.php:70 ..
+#: /options/cjfm_customize_emails_password.php:50 ..
+#: /options/cjfm_customize_emails_registration.php:181 ..
+#: /options/cjfm_maintenance_settings.php:117 ../options/cjfm_modalbox_forms.php:
+#: 104 ../options/cjfm_page_setup.php:87 ../options/cjfm_restrict_content.php:142 
+#: ../options/cjfm_social_login.php:111 ../options/cjfm_spam_protection.php:208 ..
+#: /options/cjfm_user_role_redirect.php:38 ../options/form_fields.php:327
+msgid "Save Settings"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/core_maintenance_mode.php:141 ..
+#: /options/cjfm_maintenance_settings.php:141
+#, php-format
+msgid "Maintenance mode is active. <a href=\"%s\">Manage Settings</a>"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:20 ..
+#: /modules/shortcodes/cjfm_social_login.php:32 ..
+#: /modules/widgets/cjfm_custom_message.php:4 ../options/cjfm_configuration.php:3 
+#: ../options/cjfm_customize_fields.php:19 ..
+#: /options/cjfm_customize_fields_helper.php:7 ../options/cjfm_modalbox_forms.php:
+#: 3 ../options/cjfm_restrict_content.php:4 ../options/cjfm_social_login.php:3
+msgid "Yes"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:21 ..
+#: /modules/shortcodes/cjfm_social_login.php:33 ..
+#: /modules/widgets/cjfm_custom_message.php:4 ../options/cjfm_configuration.php:3 
+#: ../options/cjfm_customize_fields.php:20 ..
+#: /options/cjfm_customize_fields_helper.php:8 ../options/cjfm_modalbox_forms.php:
+#: 3 ../options/cjfm_restrict_content.php:4 ../options/cjfm_social_login.php:3
+msgid "No"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:26
+msgid "Slide Options"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:33
+msgid "Slide type"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:38
+msgid "Image - (Must Set Featured Image)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:39
+msgid "Video - (Must Specify Video URL)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:40
+msgid "Contact Map - (Must Specify Map URL)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:44
+msgid "Main Heading"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:50
+msgid "Sub Heading"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:57
+msgid "Feel free to use any shortcodes"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:62
+msgid "Video URL"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:63
+msgid "Require for video slides"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:68
+msgid "Map URL"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:69
+msgid "Require for contact map slides"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:74
+msgid "Animation"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:75
+msgid ""
+"Animation will be applied to all <u>valid</u> html elements, based on slide "
+"layout."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:85
+msgid "Animation Delay"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/metabox_sample.php:86
+msgid "Specify delay in miliseconds. <code>e.g. 250</code> (1000ms = 1sec)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:11 ..
+#: /options/form_fields.php:11
+msgid "This is text that goes here.."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:21 ..
+#: /options/form_fields.php:21
+msgid "HTML Form Fields"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:27 ..
+#: /options/form_fields.php:27
+msgid "Info Full Label"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:31 ..
+#: /options/form_fields.php:31
+msgid "Info Full default text"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:37 ..
+#: /options/form_fields.php:37
+msgid "Info Label"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:41 ..
+#: /options/form_fields.php:41
+msgid "Info default text"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:47 ..
+#: /options/form_fields.php:47
+msgid "Textbox"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:57 ..
+#: /framework/includes/sample-code/shortcode_sample.php:19 ..
+#: /framework/includes/sample-code/shortcode_sample.php:54 ../options/form_fields.
+#: php:57
+msgid "Number"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:67 ..
+#: /options/form_fields.php:67
+msgid "Textarea"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:77 ..
+#: /options/form_fields.php:77
+msgid "Checkbox"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:87 ..
+#: /options/form_fields.php:87
+msgid "Checkbox Inline"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:97 ..
+#: /options/form_fields.php:97
+msgid "Radio"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:107 ..
+#: /options/form_fields.php:107
+msgid "Radio Inline"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:117 ..
+#: /options/form_fields.php:117
+msgid "Dropdown"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:127 ..
+#: /options/form_fields.php:127
+msgid "MultiSelect"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:141 ..
+#: /options/form_fields.php:141
+msgid "WordPress Fields"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/options_form_fields.php:251 ..
+#: /options/form_fields.php:251
+msgid "Helper Form Fields"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:49
+msgid "Heading Text"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:50
+msgid ""
+"Peragraph Text here: Lorem ipsum Magna ut est anim velit voluptate aliqua in "
+"commodo cillum sunt nostrud labore consectetur."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:51
+msgid "Textbox Input"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:52
+msgid "Textarea Input"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:53
+msgid "Select Options"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/shortcode_sample.php:55
+msgid "Pick Color"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:4
+msgid "Social Media (cjfm)"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:5
+msgid "Display social media links with or without icons"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:13
+msgid "Title"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:14 ..
+#: /framework/includes/sample-code/widget_sample.php:36
+msgid "Specify widget title here."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:23
+msgid "facebook"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:24
+msgid "Specify widget facebook here."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/widget_sample.php:35
+msgid "sub_title"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/dynamic_sidebar_setup.
+#: php:61 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/dynamic_sidebar_setup.php:196
+msgid "Choose Sidebar"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/dynamic_sidebar_setup.
+#: php:86
+msgid "Active Sidebar"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:33 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:69
+msgid "Sidebar Name is required."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:93 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:129
+msgid "Register New Sidebar"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:96 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:132 ../framework/includes/sample-code/dynamic-
+#: sidebar-setup/theme_dynamic_sidebars.php:160
+msgid "Sidebar ID"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:97 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:133 ../framework/includes/sample-code/dynamic-
+#: sidebar-setup/theme_dynamic_sidebars.php:161
+msgid "Sidebar Name"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:98 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:134 ../framework/includes/sample-code/dynamic-
+#: sidebar-setup/theme_dynamic_sidebars.php:162 ../options/cjfm_customize_fields.
+#: php:112 ../options/cjfm_customize_fields_helper.php:34 ..
+#: /options/cjfm_customize_fields_helper.php:43 ..
+#: /options/cjfm_customize_fields_helper.php:52 ..
+#: /options/cjfm_customize_fields_helper.php:61 ..
+#: /options/cjfm_customize_fields_helper.php:88 ..
+#: /options/cjfm_customize_fields_helper.php:108 ..
+#: /options/cjfm_customize_fields_helper.php:132
+msgid "Description"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:99 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:135 ../framework/includes/sample-code/dynamic-
+#: sidebar-setup/theme_dynamic_sidebars.php:163
+msgid "Class"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:100 ../framework/includes/sample-code/dynamic-sidebar-
+#: setup/theme_dynamic_sidebars.php:136 ../framework/includes/sample-code/dynamic-
+#: sidebar-setup/theme_dynamic_sidebars.php:164 ../options/cjfm_customize_fields.
+#: php:120 ../options/cjfm_customize_forms.php:247 ..
+#: /options/cjfm_invitations_declined.php:54
+msgid "Actions"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:103
+msgid "Generated Automatically"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:108
+msgid "Add New Sidebar"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:109 ../options/cjfm_approve_accounts.php:117 ..
+#: /options/cjfm_customize_fields.php:240 ../options/cjfm_invitations.php:109
+msgid "Cancel"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:143
+msgid "Edit Sidebar"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:156
+msgid "Registered Sidebars"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:175
+msgid "Edit"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:176 ../options/cjfm_approve_accounts.php:175 ..
+#: /options/cjfm_approve_accounts.php:176 ../options/cjfm_customize_fields.php:
+#: 180 ../options/cjfm_invitations.php:160 ../options/cjfm_invitations.php:161 ..
+#: /options/cjfm_invitations_declined.php:71
+msgid ""
+"Are you sure?\n"
+"This cannot be undone."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/sample-code/dynamic-sidebar-setup/theme_dynamic_sidebars.
+#: php:176 ../options/cjfm_customize_forms.php:274
+msgid "Delete"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator/cj_shortcode_generator_panel.php:21 .
+#: ./framework/includes/shortcode-generator-backup/cj_shortcode_generator_panel.
+#: php:33
+msgid "Select Product"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator/cj_shortcode_generator_panel.php:39 .
+#: ./framework/includes/shortcode-generator-backup/cj_shortcode_generator_panel.
+#: php:25
+msgid "CSSJockey Shortcode Generator"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator/cj_shortcode_generator_panel.php:47 .
+#: ./framework/includes/shortcode-generator/cj_shortcode_generator_panel.php:55
+msgid "Select a shortcode to configure settings and insert."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator-backup/cj_shortcode_generator_panel.
+#: php:73
+msgid "Select product and shortcode."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator-backup/cj_shortcode_generator_panel.
+#: php:91
+msgid "Content goes here.."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/shortcode-generator-backup/cj_shortcode_generator_panel.
+#: php:124
+msgid "No shortcodes available."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/upgrades/init.php:49
+msgid "Please enter purchase code for this product."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/upgrades/init.php:99
+#, php-format
+msgid ""
+"Verify purchase code to enable automatic upgrades and use this %s on this "
+"installation."
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/upgrades/init.php:104
+msgid "Verify & Activate License"
+msgstr ""
+
+# @ cjfm
+#: ../framework/includes/upgrades/init.php:105
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Where can I find my Purchase Code?</a>"
+msgstr ""
+
+# @ cjfm
+#: ../maintenance/index.php:86
+#, php-format
+msgid "Copyright &copy; %d"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:28 ../modules/functions/ajax.php:68 ..
+#: /modules/functions/ajax.php:150 ../modules/functions/plugin_setup.php:1626 ..
+#: /modules/functions/plugin_setup.php:1786 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:58
+msgid "Missing required fields."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:30 ../modules/functions/ajax.php:72
+msgid "Username does not exist."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:36
+msgid "Username and password does not match with our records."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:98 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:86
+#, php-format
+msgid "We received a reset password request for your %s account (%s)."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:99 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:87
+msgid "<p>Please follow the link below to reset your password:</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:101 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:89
+msgid ""
+"<p>If you have not sent this request, please ignore this email and nothing "
+"will change on your account.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:109
+#, php-format
+msgid "Reset your %s password."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:114 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:102
+msgid ""
+"We've sent a confirmation link to your email address.<br />If you don't "
+"receive instructions within a few minutes, check your email's spam and junk "
+"filters."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:156 ../modules/functions/plugin_setup.php:1803
+msgid "Username field is invalid."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:158
+msgid "Username already registered, try another one."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:163 ../modules/functions/plugin_setup.php:1642 ..
+#: /modules/functions/plugin_setup.php:1812
+msgid "Email address invalid, please check and try again."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:165 ../modules/functions/plugin_setup.php:1645 ..
+#: /modules/functions/plugin_setup.php:1815
+msgid "Email address already registered."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:171 ../modules/functions/plugin_setup.php:1822
+#, php-format
+msgid "Password must be %d characters long."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:173 ../modules/functions/plugin_setup.php:1825
+msgid "Password and Confirm password field does not match."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/ajax.php:236
+msgid ""
+"We've sent an email with a confirmation link to your email address."
+"<br>Please check your email (also spam folder) in order to activate your "
+"account."
+msgstr ""
+
+#: ../modules/functions/item-assistant.php:54
+msgid "Setup Assistant"
+msgstr ""
+
+#: ../modules/functions/item-assistant.php:57
+msgid "Support Forum"
+msgstr ""
+
+#: ../modules/functions/item-assistant.php:58
+msgid "Reques new features"
+msgstr ""
+
+#: ../modules/functions/item-assistant.php:59
+msgid "Report Bugs & Issues"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:46 ../themes/default/index.php:211
+msgid "Weak"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:47 ../themes/default/index.php:212
+msgid "Medium"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:48 ../themes/default/index.php:213
+msgid "Strong"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:49
+msgid "Please wait.."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:219
+#, php-format
+msgid ""
+"<b>%s %s</b> requires a few pages to be setup. <a href=\"%s\">Click here</a> "
+"to setup required pages."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:241 ..
+#: /modules/shortcodes/cjfm_login_form.php:15
+msgid "Login"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:251 ../options/cjfm_customize_fields.php:
+#: 115
+msgid "Register"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:261
+msgid "Logout"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:271
+msgid "Recover Password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:281
+msgid "Edit Profile"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:322
+msgid "User"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:437 ../modules/functions/plugin_setup.
+#: php:1244 ../options/cjfm_customize_forms.php:38
+msgid "Choose Username"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:452 ../modules/functions/plugin_setup.
+#: php:1259 ../options/cjfm_customize_forms.php:53
+msgid "Your email address"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:467 ../modules/functions/plugin_setup.
+#: php:1274 ../options/cjfm_customize_forms.php:68
+msgid "Choose a password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:482 ../modules/functions/plugin_setup.
+#: php:1289 ../options/cjfm_customize_forms.php:83
+msgid "Type password again"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:497 ../modules/functions/plugin_setup.
+#: php:1304 ../options/cjfm_customize_forms.php:98
+msgid "Profile Picture"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:621
+msgid "Invalid answer, please try again."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:641
+msgid "Verification failed, please verify that you are not a robot."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:932
+msgid "Your account is being reviewed. Please check back later."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1223 ../modules/functions/woocommerce.
+#: php:129 ../modules/shortcodes/cjfm_login_form.php:17 ..
+#: /modules/shortcodes/cjfm_register_form.php:9
+msgid "*"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1608 ../modules/functions/plugin_setup.
+#: php:1759
+msgid "You are not authorised to submit this form."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1632 ../modules/functions/plugin_setup.
+#: php:1792
+msgid "You must choose your profile picture."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1711 ../modules/functions/plugin_setup.
+#: php:2142
+msgid "<p>Dear Admin,</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1712
+#, php-format
+msgid "<p>New invitation request on your website %s</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1713
+#, php-format
+msgid "<a href=\"%s\">View Invitation</a>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1718
+#, php-format
+msgid "[%s] New invitation request"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:1806
+#, php-format
+msgid "Username already registered, try another one. (%s is available.)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:2143
+#, php-format
+msgid "<p>New user registration on your website %s</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:2144
+#, php-format
+msgid "Username: %s<br>Email Address: %s<br>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:2164
+msgid "<p><strong>Additional registration form fields:</strong></p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/plugin_setup.php:2172
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: ../modules/functions/plugin_setup.php:2248 ../modules/functions/plugin_setup.
+#: php:2255
+msgid "Password must have a special character, a number and one capital letter."
+msgstr ""
+
+# @ cjfm
+#: ../modules/functions/woocommerce.php:35
+#, php-format
+msgid "%s field is required."
+msgstr ""
+
+#: ../modules/functions/assistant/messages.php:10
+msgid "Shortcode Generator"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:14
+msgid "This shortcode will display a button for a user to delete their account."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:15 ..
+#: /modules/shortcodes/cjfm_social_login.php:43
+msgid "Button Text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:15
+msgid "Specify button text, defaults to Delete Account."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:16 ..
+#: /modules/shortcodes/cjfm_register_form.php:32 ..
+#: /modules/shortcodes/cjfm_social_login.php:44
+msgid "Button CSS Class"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:16
+msgid "Specify button css class."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:17 ..
+#: /modules/shortcodes/cjfm_page_links.php:30 ..
+#: /modules/shortcodes/cjfm_social_login.php:41
+msgid "Redirect Url"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:17 ..
+#: /modules/shortcodes/cjfm_page_links.php:30
+msgid ""
+"Specify redirect Url if you wish to send the user to a specific page "
+"otherwise user will be redirected back to this page."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:50
+msgid ""
+"Are you sure?\n"
+"This cannot be undone and will remove all your data."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_delete_account.php:51
+msgid "Admin accounts cannot be deleted by this method."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:9
+msgid "Username or Email address:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:11
+msgid "Password:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:36
+msgid ""
+"This shortcode will display a login form and redirect the user to specified "
+"redirect_url upon successful login."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:37 ..
+#: /modules/shortcodes/cjfm_user_profile.php:27
+msgid "Select custom form"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:37 ..
+#: /modules/shortcodes/cjfm_register_form.php:28 ..
+#: /modules/shortcodes/cjfm_social_login.php:40 ..
+#: /modules/shortcodes/cjfm_user_profile.php:27
+msgid "Form fields will be included as per the custom form specified."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:38
+msgid "Redirect URL: (Default: Homepage)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:38
+msgid "Specify a valid Url where you would like users to go after successful login"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:39 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:23
+msgid "Username Label"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:39
+msgid "Specify username field label."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:40
+msgid "Username Placeholder"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:40
+msgid "Specify placeholder for user login input."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:41
+msgid "Password Label"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:41
+msgid "Specify password field label."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:42
+msgid "Password Placeholder"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:42
+msgid "Specify placeholder for user pass input."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:43
+msgid "Show icons"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:43
+msgid "You can choose to display font awesome icons for the textboxes."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:44
+msgid "Show remember me checkbox"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:44
+msgid "Choose if you would like to display remember me checkbox or not."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:45 ..
+#: /modules/shortcodes/cjfm_register_form.php:30 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:24
+msgid "Required Field Text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:45 ..
+#: /modules/shortcodes/cjfm_register_form.php:30
+msgid "This text will be added to the username label. (Default: *)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:46 ../modules/shortcodes/cjfm_logout.
+#: php:30 ../modules/shortcodes/cjfm_reset_password_form.php:25 ..
+#: /modules/shortcodes/cjfm_user_profile.php:29
+msgid "Submit Button Text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:46 ../modules/shortcodes/cjfm_logout.
+#: php:30 ../modules/shortcodes/cjfm_reset_password_form.php:25 ..
+#: /modules/shortcodes/cjfm_user_profile.php:29
+msgid "This will replace the submit button text. (Default: Login)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:47
+msgid "Forgot Password Link Text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:47 ../themes/default/index.php:25 ..
+#: /themes/default/index.php:38 ../themes/default/index.php:45
+msgid "Forgot password?"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:47
+msgid "Specify forgot password text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:48 ../modules/shortcodes/cjfm_logout.
+#: php:31 ../modules/shortcodes/cjfm_reset_password_form.php:26 ..
+#: /modules/shortcodes/cjfm_user_profile.php:30
+msgid "Submit Button CSS Class"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:48 ../modules/shortcodes/cjfm_logout.
+#: php:31 ../modules/shortcodes/cjfm_reset_password_form.php:26 ..
+#: /modules/shortcodes/cjfm_social_login.php:44 ..
+#: /modules/shortcodes/cjfm_user_profile.php:30
+msgid "You can specify custom CSS classes for the submit button."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:49 ../modules/shortcodes/cjfm_logout.
+#: php:32 ../modules/shortcodes/cjfm_register_form.php:33 ..
+#: /modules/shortcodes/cjfm_reset_password_form.php:27 ..
+#: /modules/shortcodes/cjfm_user_content.php:26 ..
+#: /modules/shortcodes/cjfm_user_content.php:71 ..
+#: /modules/shortcodes/cjfm_user_profile.php:31
+msgid "Container CSS Class"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:49 ../modules/shortcodes/cjfm_logout.
+#: php:32 ../modules/shortcodes/cjfm_reset_password_form.php:27 ..
+#: /modules/shortcodes/cjfm_user_content.php:26 ..
+#: /modules/shortcodes/cjfm_user_content.php:71 ..
+#: /modules/shortcodes/cjfm_user_profile.php:31
+msgid "You can specify custom CSS classes for the from container."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:126
+msgid "Invalid username or password."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:142
+msgid "Remember me"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_login_form.php:202 ..
+#: /modules/shortcodes/cjfm_register_form.php:65
+#, php-format
+msgid "You are already logged in as %s. <a href=\"%s\">Logout</a>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:20 ..
+#: /modules/shortcodes/cjfm_user_content.php:18 ..
+#: /modules/shortcodes/cjfm_user_content.php:63
+msgid "Logout directly without displaying any message"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:21 ..
+#: /modules/shortcodes/cjfm_user_content.php:19 ..
+#: /modules/shortcodes/cjfm_user_content.php:64
+msgid "Display a custom message with logout button."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:26
+msgid "This shortcode will logout the user."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:27 ..
+#: /modules/shortcodes/cjfm_user_avatar.php:22
+msgid "This content will be displayed to the user if type is set to message."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:28
+msgid "Redirect URL:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:28
+msgid ""
+"User will be redirected to this Url after successful logout.<br>(Default: "
+"login page specified under plugin settings)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:29 ..
+#: /modules/shortcodes/cjfm_user_avatar.php:24
+msgid "Logout Type <i style=\"color:red;\">(required)</i>:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_logout.php:29 ..
+#: /modules/shortcodes/cjfm_user_avatar.php:24
+msgid "Select logout type"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:14 ../options/cjfm_page_setup.php:37
+msgid "Login Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:15 ../options/cjfm_page_setup.php:47
+msgid "Register Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:16 ../options/cjfm_page_setup.php:67
+msgid "Reset Password Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:17 ../options/cjfm_page_setup.php:57
+msgid "Logout Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:18
+msgid "User Profile Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:22
+msgid "Same Window"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:23
+msgid "New Window"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:28
+msgid ""
+"This shortcode will display a link to the page selected under Page Setup "
+"plugin settings page."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:29
+msgid "Page"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:29
+msgid "Select a page for which you would like to generate the link."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:31
+msgid "Link Text"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:31
+msgid "Specify link text for the generated link."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:32
+msgid "Open link in"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_page_links.php:32
+msgid "Select if you would like this link to open in same or new window/tab."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:27
+msgid ""
+"This shortcode will display Registration Form with custom fields specified "
+"under Configuration >> Custom Form Fields."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:28 ..
+#: /modules/shortcodes/cjfm_social_login.php:40
+msgid "Select form to include fields"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:29
+msgid "Redirect URL (default: homepage)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:29
+msgid "User will be redirected to this Url after successful registration."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:31
+msgid "Button Text (default: Create new account)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:31
+msgid "Default Button text will be replaced by this value."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:32
+msgid "Specify custom CSS classes for the button"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:33
+msgid "Specify custom CSS class for the form container."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:110
+msgid "Invalid activation key, please try again."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:114
+#, php-format
+msgid ""
+"<p>You are connected via %s. <br>Please fill out the form below to complete "
+"your registration.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:158
+msgid "Thank You! Your invitation request has been received."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:161
+msgid "Your invitation request is awaiting approval."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:164
+msgid ""
+"Your invitation request has been approved, please check your email for "
+"registration link."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:167
+msgid "Your invitation request has been declined."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_register_form.php:201
+msgid "Registration without user_login and user_email fields is not allowed."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:7
+msgid "Username or Email address"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:8
+msgid "(required)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:9 ..
+#: /options/cjfm_customize_fields.php:238
+msgid "Continue"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:16
+msgid "Send login info via email. (Default)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:17
+msgid "Send email with link to set new password."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:22
+msgid "This shortcode will display recover password form."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:23
+msgid ""
+"This will replace the default username field label. (Default: Username or "
+"Email address:)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:24
+msgid "This text will be added to the username label. (Default: required)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:60
+msgid "No account found with this information."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:98
+#, php-format
+msgid "Reset your %s password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:157
+msgid "New password field is required."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:159
+msgid "Password fields does not match."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:200
+msgid "New Password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:211
+msgid "Confirm Password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:222
+msgid "Change Password"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:239
+msgid "Confirmation key invalid or expired, please try again."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:267
+#, php-format
+msgid ""
+"<p>You are already loggedin to your account. <a href=\"%s\">Click here</a> to "
+"change your password.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_reset_password_form.php:270
+#, php-format
+msgid ""
+"<p>You are already loggedin to your account. <a href=\"%s\">Click here</a> to "
+"update your profile.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:24
+msgid "All Services"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:38
+msgid "This will enable social login for your website."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:39
+msgid "Select Social Service"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:39
+msgid ""
+"Select Social Web Service<br>Buttons will only display if you have specified "
+"app settings under Social Media Setup page."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:41
+msgid ""
+"You can specify a custom Url to redirect user after social connect. (default:"
+" homepage)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:43
+msgid ""
+"This will replace the button text.<br>If your theme support fontawesome or "
+"bootstrap you can add HTML to include the icon and use alignleft or "
+"alignright class to float the icon."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:148
+msgid "Unspecified error."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:149
+msgid "Hybriauth configuration error."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:150
+msgid "Provider not properly configured."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:151
+msgid "Unknown or disabled provider."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:152
+msgid "Missing provider application credentials."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:153
+msgid ""
+"Authentification failed. The user has canceled the authentication or the "
+"provider refused the connection."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:154
+msgid ""
+"User profile request failed. Most likely the user is not connected to the "
+"provider and he should authenticate again."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:155
+msgid "User not connected to the provider."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:156
+msgid "Provider does not support this feature."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_social_login.php:157
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:15
+msgid "Url"
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:16
+msgid "Image"
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:21
+msgid "This shortcode return user avatar based on plugin configuration."
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:23
+msgid "User ID"
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:23
+msgid "Leave this blank to get current loggedin user."
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:25
+msgid "Image Size"
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:25
+msgid "You can specify custom size for avatar image."
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:26
+msgid "Image CSS Class"
+msgstr ""
+
+#: ../modules/shortcodes/cjfm_user_avatar.php:26
+msgid "You can specify custom CSS class for avatar image."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_content.php:24
+msgid "Text within this shortcode will be displayed only to logged in users."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_content.php:69
+msgid ""
+"Text within this shortcode will be displayed only to visitors who are <b>not "
+"logged in</b>  to your website."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_meta.php:22
+msgid "Not Applicable"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_meta.php:27
+msgid "This shortcode will display the current user data based on the specified key."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_meta.php:28
+msgid "User Meta Key"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_meta.php:28
+msgid "Select user data key to return its value."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:8
+msgid "Update Profile"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:28
+msgid ""
+"This shortcode will display edit profile form and will include custom fields "
+"specified to be displayed on edit profile page."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:82 ..
+#: /options/cjfm_customize_fields.php:275 ../options/cjfm_customize_fields.php:355
+msgid "Missing required fields"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:90
+msgid "Invalid email address"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:93
+msgid "Email address assigned to another account."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:100
+msgid "Password fields does not match"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:104
+#, php-format
+msgid "Password must be %d characters long"
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:189
+msgid "Profile information updated."
+msgstr ""
+
+# @ cjfm
+#: ../modules/shortcodes/cjfm_user_profile.php:193
+msgid "You must specify your email address."
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:7
+msgid "Custom Content (Membership Modules)"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:8
+msgid "Custom content based on user login status."
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:17
+msgid "<p><b>Visitors</b> (Users not logged in)</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:26 ..
+#: /modules/widgets/cjfm_custom_message.php:66
+msgid "Widget Title:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:27
+msgid "e.g. Welcome User!"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:36
+msgid "Message:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:37
+msgid "Specify message and shortcodes for users who are <b>not</b> logged in."
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:46 ..
+#: /modules/widgets/cjfm_custom_message.php:86
+msgid "Show widget:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:47
+msgid "You can disable this widget for users who are <b>not</b> logged in."
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:57
+msgid "<p><b>Users</b> (Logged in users)</p>"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:67
+#, php-format
+msgid "Welcome %s"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:76
+msgid "User Message:"
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:77
+msgid "Specify message and shortcodes for users who are logged in."
+msgstr ""
+
+# @ cjfm
+#: ../modules/widgets/cjfm_custom_message.php:87
+msgid "You can disable this widget for users who are logged in."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:78
+msgid "Decline Account Email Message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:84
+msgid "User Login"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:94 ../options/cjfm_invitations.php:87
+msgid "Email Subject"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:98
+#, php-format
+msgid "Your %s account is declined."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:104 ../options/cjfm_invitations.php:97
+msgid "Email Message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:115
+msgid "Decline Account & Remove User"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:148
+msgid "Approve Accounts"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:152
+msgid "User Details"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:153 ../options/cjfm_configuration.php:192 
+#: ../options/cjfm_invitations.php:140 ../options/cjfm_invitations_declined.php:53
+msgid "Custom Fields"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:174 ../options/cjfm_invitations.php:159 ..
+#: /options/cjfm_invitations_declined.php:71
+msgid "Approve"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_approve_accounts.php:185
+msgid "No accounts found that required approvals."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:23
+msgid "Default Theme"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:54
+msgid ""
+"Select a page where you would like to display login, register and reset "
+"password forms."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:60
+msgid "Select Auth Page"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:70
+msgid "Select Theme"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:80
+msgid "Upload Logo Image"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:94
+msgid "Page Style"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:100
+msgid "Body Background"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:110
+msgid "Font Styles"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:120
+msgid "Body Text Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:130
+msgid "Body Link Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:140
+msgid "Panel Background"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:180
+msgid "Panel Button Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:190
+msgid "Panel Button Text Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:200
+msgid "Border Radius"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:201
+msgid "Specify border radius for auth page elements."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:210 ../options/cjfm_customize.php:123
+msgid "Icon Position Top"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:220 ../options/cjfm_customize.php:133
+msgid "Icon Position Right"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:230 ../options/cjfm_customize.php:203
+msgid "Custom CSS Code"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:231
+msgid ""
+"Specify valid CSS code to customize selected theme.<br><span class=\"red "
+"bold\">Note:</span> Do not add &lt;style&gt; tags as the code will be wrapped "
+"within the style tags."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:244
+msgid "Auth Page Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:254
+msgid ""
+"<b>NOTE:</b> Other shortcodes will not work on this page as the theme pages "
+"doesnot include wp_head() or wp_footer() functions."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:260
+msgid "Login Form Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:261
+msgid "You can add any content above or below the login shortcode."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:270
+msgid "Register Form Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:271
+msgid "You can add any content above or below the register shortcode."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:280
+msgid "Reset password Form Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:281
+msgid "You can add any content above or below the reset password shortcode."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:290
+msgid "Social connect shortcodes"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_auth_page.php:291
+msgid "<p>Insert social media shortcodes here</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:6
+msgid "<b class=\"green\">enabled</b>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:6
+msgid "<b class=\"red\">disabled</b>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:14
+msgid "Allow users to set their passwords while registration."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:15
+msgid "Generate password automatically and send via email."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:20
+msgid "Approvals Required"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:21
+msgid "Invitations Only"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:45
+msgid "Use Ajax for forms?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:46
+msgid "You can choose to enable AJAX for login, register and reset password forms."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:55
+msgid "Password strength meter?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:56
+msgid ""
+"You can choose to enable password strength meter for register and create new "
+"password forms."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:69
+msgid "Woocommerce Integration"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:75
+msgid "Woocommerce Integartion?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:76
+msgid ""
+"Once enabled, custom registration fields will be added to registration forms "
+"displayed on My account and Checkout pages."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:85
+msgid "Choose Custom Registration Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:86
+msgid ""
+"Select custom form to include custom form fields in woocommerce registration "
+"form."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:99
+msgid "Registration Setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:105
+msgid "Default Setup"
+msgstr ""
+
+#: ../options/cjfm_configuration.php:109
+#, php-format
+msgid ""
+"<p>Registrations are currently %s. <a href=\"%s\">Click here</a> to manage the "
+"settings.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:110
+#, php-format
+msgid ""
+"Default role is set to: <b>%s</b>. <a href=\"%s\">Click here</a> to manage the "
+"settings."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:116
+msgid "Registration Type"
+msgstr ""
+
+#: ../options/cjfm_configuration.php:117
+msgid "<p><code>Normal</code> : Default registration system.</p>"
+msgstr ""
+
+#: ../options/cjfm_configuration.php:118
+msgid ""
+"<p><code>Approvals Required</code> : Admin must approve user account when "
+"users signup on this website.</p>"
+msgstr ""
+
+#: ../options/cjfm_configuration.php:119
+msgid ""
+"<p><code>Invitations Only</code> : Admins can approve invitation requests "
+"and allow users to create their own account. Normal registration is not "
+"allowed.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:128
+msgid "Handle Passwords?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:138
+msgid "Minimum Password Length"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:139
+msgid "Password must be above the specified character length."
+msgstr ""
+
+#: ../options/cjfm_configuration.php:148
+msgid "Force Strong Password?"
+msgstr ""
+
+#: ../options/cjfm_configuration.php:149
+msgid ""
+"You can choose to enable or disable stong passwords for registration and "
+"edit profile forms."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:158
+msgid "Approvals Required Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:159
+msgid ""
+"This text will be displayed above registration form if registration type is "
+"set to approvals required."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:168
+msgid "Invitations Only Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:169
+msgid ""
+"This text will be displayed above registration form if registration type is "
+"set to invitations only."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:178
+msgid "Email address verification"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:179
+msgid ""
+"If enabled, user email address will be verified before the account is "
+"created."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:198
+msgid "Sync Custom Fields"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:199
+msgid ""
+"<p>If <b>\"Yes\"</b>, additional profile fields will be displayed under "
+"WordPress profile page as well.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:200
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to manage register and profile fields."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:209
+msgid "Additional Profile Fields Heading"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:210
+msgid "This will be displayed above the custom fields in WordPress profile page."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:213
+msgid "Additional Information"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:223
+msgid "WordPress Defaults"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:229
+msgid "Disable Admin Bar For"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:230
+msgid "Select user roles for which you want to disable the admin bar."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:239
+msgid "WordPress Dashboard Access"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:240
+msgid "Select user roles to allow WordPress Dashboard access."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:249
+msgid "Disable WordPress Default Pages?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:250
+msgid ""
+"<p>If <b>yes</b>, Users will be redirected to frontend pages when they try "
+"to login or register via WordPress default links.</p><p class=\"red\">Make "
+"sure the page setup is complete and you tried to login via the form on "
+"frontend login page.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:263
+msgid "Plugin Styles"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:269
+msgid "Use Plugin CSS?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:270
+#, php-format
+msgid ""
+"<p><a class=\"red bold\" href=\"%s\">Click here</a> to insert custom CSS or "
+"Javascript.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:271
+msgid ""
+"<p>You can also write custom CSS and JS in <code>cjfm-custom.css</code> and "
+"<code>cjfm-custom.js</code> files placed under plugin root folder."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:280
+msgid "Use Plugin Jquery UI CSS?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:281
+msgid ""
+"This plugin uses jQuery UI for date fields, if your theme already support "
+"jQuery UI you can choose no to use your theme jQuery UI CSS."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:294
+msgid "User Avatar (Profile picture)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:300
+msgid "Avatar Type?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:305
+msgid "Use Gravatar"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:305
+msgid "Allow custom profile picture upload"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:310 ../options/cjfm_customize_fields_helper.
+#: php:98
+msgid "Allowed File Types?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:311
+msgid "Separate filetype extensions by <code>|</code> symbol."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:320
+msgid "Maxium File Size?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:321
+#, php-format
+msgid ""
+"Specify maxium file size for an avatar in kilobytes. <a target=\"_blank\" "
+"href=\"%s\">Convert Size</a>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_configuration.php:322
+msgid "Kilobytes"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:52
+msgid "Export User Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:58
+msgid "User Meta Kyes"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:59
+msgid "Select user meta keys to include in downloadable CSV file."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:68
+msgid "Download Users Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:103 ../options/cjfm_csv_import.php:242
+msgid "No file found, please choose a file to upload."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:105 ../options/cjfm_csv_import.php:244
+msgid "Invalid file type, please try again."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:123
+msgid ""
+"<b>Invalid Data</b>, please verify the uploaded data and try again.<br>ID, "
+"user_login, user_email fields are required and must be unique."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:136
+#, php-format
+msgid "Could not find these users in database:<br><ol>%s</ol>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:159
+msgid "User data uploaded successfully."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:166 ../options/cjfm_csv_import.php:333
+msgid "No data found in the uploaded file, please check and try again."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:183
+msgid "Update Exisiting Users"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:189 ../options/cjfm_csv_import.php:356
+msgid "Step 1: Download Format"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:193 ../options/cjfm_csv_import.php:360
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to download format for .csv file."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:199 ../options/cjfm_csv_import.php:366
+msgid "Step 2: Import File"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:209
+msgid "Update Existing Users"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:273
+msgid ""
+"<b>Invalid Data</b>, please verify the uploaded data and try again."
+"<br>user_login, user_email fields are required and must be unique."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:323
+msgid "New user data uploaded successfully."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_csv_import.php:350 ../options/cjfm_csv_import.php:376
+msgid "Add New Users"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:5
+msgid "red"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:6
+msgid "green"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:7
+msgid "orange"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:8
+msgid "blue"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:9
+msgid "black"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:10
+msgid "gray"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:14
+msgid "mini"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:15
+msgid "small"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:16
+msgid "medium"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:17
+msgid "large"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:22 ../options/cjfm_modalbox_forms.php:48 ..
+#: /options/cjfm_spam_protection.php:11
+msgid "Login Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:23 ../options/cjfm_spam_protection.php:12
+msgid "Registration Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:24 ../options/cjfm_spam_protection.php:13
+msgid "Reset Password Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:25
+msgid "Edit Profile Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:26 ../options/cjfm_spam_protection.php:14
+msgid "Invitation Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:37
+msgid "Customize Form Styles"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:43
+msgid "Form background"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:53
+msgid "Form Max Width"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:54
+msgid "Specify form maximum width in percentage or pixels."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:63
+msgid "Form padding"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:64
+msgid "Specify form padding in this order: Top, Right, Bottom, Left"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:73
+msgid "Form text color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:83
+msgid "Form link color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:93
+msgid "Form link hover color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:103
+msgid "Apply above styles to:"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:117
+msgid "Icon position"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:147
+msgid "Submit Button Styles"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:153
+msgid "Submit Button Background Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:163
+msgid "Submit Button Text Color"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:173
+msgid "Submit Button Size"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:197
+msgid ""
+"Custom code will be inserted in the footer. Make sure your theme supports "
+"wp_footer() function."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:204
+msgid "<p>Write your custom css code here.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:215
+msgid "Custom JavaScript Code"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize.php:216
+msgid "<p>Write your custom javascript code here.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:7 ..
+#: /options/cjfm_customize_emails_variables.php:7
+msgid "Returns email signature"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:8 ..
+#: /options/cjfm_customize_emails_variables.php:8
+msgid "Returns website name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:9 ..
+#: /options/cjfm_customize_emails_variables.php:9
+msgid "Returns website url"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:10 ..
+#: /options/cjfm_customize_emails_variables.php:10
+msgid "Returns invitation link if registration type is set to invitation only."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:11 ..
+#: /options/cjfm_customize_emails_variables.php:11
+msgid "Returns login page url specified under page setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:12 ..
+#: /options/cjfm_customize_emails_variables.php:12
+msgid "Returns register page url specified under page setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:13 ..
+#: /options/cjfm_customize_emails_variables.php:13
+msgid "Returns reset password page url specified under page setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:14 ..
+#: /options/cjfm_customize_emails_variables.php:14
+msgid "Returns profile page url specified under page setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:15 ..
+#: /options/cjfm_customize_emails_variables.php:15
+msgid "Returns user database ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:16 ..
+#: /options/cjfm_customize_emails_variables.php:16
+msgid "Returns username"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:17 ..
+#: /options/cjfm_customize_emails_variables.php:17
+msgid "Returns email address"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:18 ..
+#: /options/cjfm_customize_emails_variables.php:18
+msgid "Retunrs user url"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:19 ..
+#: /options/cjfm_customize_emails_variables.php:19
+msgid "Returns user registration date and time"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:20
+msgid "Returns user display name (fallback user_login)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:21
+msgid "Returns user first name (fallback display_name)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:22
+msgid "Retruns user last name (fallback blank)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:23
+msgid "Returns user description"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:24
+msgid "Returns user AOL ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:25
+msgid "Returns user Yahoo ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:26
+msgid "Returns user Jabber ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:27 ..
+#: /options/cjfm_customize_emails_variables.php:27
+msgid "Replaced with newly created  user password and removed once password is sent."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:28 ..
+#: /options/cjfm_customize_emails_variables.php:28
+msgid "Returns user last login date and time"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:29 ..
+#: /options/cjfm_customize_emails_variables.php:29
+msgid "Returns user last login IP address"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:30
+msgid "Returns reset password confirmation link URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:40 ..
+#: /options/cjfm_customize_emails_variables.php:40
+#, php-format
+msgid "Returns %s from usermeta table."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:56
+msgid "Outgoing Email Settings"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:66 ..
+#: /options/cjfm_customize_emails_registration.php:14
+msgid "Registration Email Messages"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:76
+#, php-format
+msgid ""
+"Below email messages will be sent to users when they register on this site, "
+"depending upon the registration type selected under Plguin Configuration.\n"
+"					<br />You can use dynamic variables in your messages to personalize the "
+"email and populate different values. <a href=\"%s\">Click here</a> to view "
+"dynamic variable list."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:87 ../options/cjfm_customize_emails.php:
+#: 103 ../options/cjfm_customize_emails_registration.php:75 ..
+#: /options/cjfm_customize_emails_registration.php:91
+msgid "Welcome email message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:93 ..
+#: /options/cjfm_customize_emails_registration.php:81
+msgid "Welcome email subject"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:97 ..
+#: /options/cjfm_customize_emails_registration.php:85
+#, php-format
+msgid "Your %s account has been created."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:117 ..
+#: /options/cjfm_customize_emails_registration.php:105
+msgid "Account awaiting approval"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:123 ..
+#: /options/cjfm_customize_emails_registration.php:111
+msgid "Subject (User Email)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:127 ..
+#: /options/cjfm_customize_emails_registration.php:115
+#, php-format
+msgid "Your %s account request is being verified."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:133 ..
+#: /options/cjfm_customize_emails_registration.php:121
+msgid "Message  (User Email)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:143 ..
+#: /options/cjfm_customize_emails_registration.php:131
+msgid "Subject (Admin Email)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:147 ..
+#: /options/cjfm_customize_emails_registration.php:135
+#, php-format
+msgid "%s user accounts awaiting your approval."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:153 ..
+#: /options/cjfm_customize_emails_registration.php:141
+msgid "Message (Admin Email)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:167 ..
+#: /options/cjfm_customize_emails_registration.php:155
+msgid "Invitation Approved Email Messages"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:173 ../options/cjfm_customize_emails.php:
+#: 213 ../options/cjfm_customize_emails_password.php:30 ..
+#: /options/cjfm_customize_emails_registration.php:161
+msgid "Subject"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:177 ..
+#: /options/cjfm_customize_emails_registration.php:165
+#, php-format
+msgid "%s Invite"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:183 ../options/cjfm_customize_emails.php:
+#: 223 ../options/cjfm_customize_emails_password.php:40 ..
+#: /options/cjfm_customize_emails_registration.php:171
+msgid "Message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:197 ..
+#: /options/cjfm_customize_emails_password.php:14
+msgid "Reset Password Email Messages"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:207 ..
+#: /options/cjfm_customize_emails_password.php:24
+msgid ""
+"Below email message will be sent to users when they try to reset their "
+"password, depending upon the setup type used in the shortcode. <br /> You "
+"can use dynamic variables in your messages to personalize the email and "
+"populate different values."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:207 ../options/cjfm_customize_emails.php:
+#: 224
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to view dynamic variable list."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:217 ..
+#: /options/cjfm_customize_emails_password.php:34
+#, php-format
+msgid "Your %s login details"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails.php:249 ..
+#: /options/cjfm_customize_emails_variables.php:56
+msgid "Dynamic Variables (to be used in email messages above)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:14
+msgid "Outgoing Email Setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:20
+msgid "From Name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:30
+msgid "From Email Address"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:40
+msgid "Email Signature"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:44
+#, php-format
+msgid "Regards, <br /> <b>%s Team</b>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:54
+msgid "Incoming Email Setup"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:60
+msgid "Send Incoming Notifications to"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_config.php:61
+msgid "Specify a valid email address to send admin notifications"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_password.php:24 ..
+#: /options/cjfm_customize_emails_password.php:41
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Click here</a> to view dynamic variable list."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:24
+#, php-format
+msgid ""
+"Below email messages will be sent to users when they register on this site, "
+"depending upon the registration type selected under Plguin Configuration.\n"
+"					<br />You can use dynamic variables in your messages to personalize the "
+"email and populate different values. <a target=\"_blank\" href=\"%s\">Click "
+"here</a> to view dynamic variable list."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:41
+msgid "Verify email address subject"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:45
+msgid "Comfirm your email address"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:51
+msgid "Verify email address message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:61
+msgid "Verify email address on-screen message"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_registration.php:62
+msgid ""
+"This message is displayed to user after they submit the registration form "
+"and system sent an email to verify their email address."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:20
+msgid ""
+"Returns user display name (fallback user_login), works only for registered "
+"users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:21
+msgid ""
+"Returns user first name (fallback display_name), works only for registered "
+"users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:22
+msgid "Retruns user last name (fallback blank), works only for registered users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:23
+msgid "Returns user description, works only for registered users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:24
+msgid "Returns user AOL ID, works only for registered users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:25
+msgid "Returns user Yahoo ID, works only for registered users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:26
+msgid "Returns user Jabber ID, works only for registered users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_emails_variables.php:30
+msgid ""
+"Returns reset password confirmation link URL, works only in password reset "
+"email message."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:26
+msgid "Textbox (Single Line)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:27
+msgid "Textarea (Multiple Lines)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:28
+msgid "Dropdown List"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:29
+msgid "Dropdown List (multiple)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:30
+msgid "Radio Buttons"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:31
+msgid "Checkboxes"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:32
+msgid "Date & Time"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:33
+msgid "Hidden text field with default value"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:36
+msgid "First Name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:37
+msgid "Last Name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:38
+msgid "Display Name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:40
+msgid "AIM"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:41
+msgid "Yahoo IM"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:42
+msgid "Jabber / Google talk"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:43
+msgid "Biographical Info"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:50
+msgid "Zip code"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:54
+msgid "Facebook Profile URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:55
+msgid "Twitter Profile URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:56
+msgid "Google+ Profile URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:57
+msgid "Youtube URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:58
+msgid "Vimeo URL"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:61
+msgid "Heading"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:62
+msgid "Paragraph Text"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:63
+msgid "Custom HTML"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:91
+msgid "Fields updated successfully."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:101 ..
+#: /options/cjfm_customize_fields_helper.php:138
+msgid "Back"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:102 ../options/cjfm_customize_fields.php:
+#: 222 ../options/cjfm_customize_fields_helper.php:298
+msgid "Add New Field"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:103
+msgid "Bulk Update"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:104
+#, php-format
+msgid "%s ~ Registration &amp; Profile Fields"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:109 ../options/cjfm_customize_fields.php:
+#: 228 ../options/cjfm_customize_fields_helper.php:158 ..
+#: /options/cjfm_customize_fields_helper.php:322
+msgid "Field Type"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:110
+msgid "Unique ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:111
+msgid "Label"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:114
+msgid "Profile"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:116
+msgid "Invitation"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:117
+msgid "Enabled"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:118
+msgid "Order"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:172 ../options/cjfm_customize_fields.php:
+#: 178 ../options/cjfm_customize_forms.php:271
+msgid "Update"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:174
+msgid "This field is required."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:188
+msgid "No custom fields found."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:210
+msgid "Please select a field type"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:279 ../options/cjfm_customize_fields.php:
+#: 359
+msgid "Unique name already exists"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:283 ../options/cjfm_customize_fields.php:
+#: 363
+msgid "Invalid unique name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:287 ../options/cjfm_customize_fields.php:
+#: 367
+msgid "Invalid sort order, must be numeric"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:292 ../options/cjfm_customize_fields.php:
+#: 372
+msgid "Specify options, each option per line."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields.php:406
+msgid "Field updated successfully."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:32 ..
+#: /options/cjfm_customize_fields_helper.php:41 ..
+#: /options/cjfm_customize_fields_helper.php:50 ..
+#: /options/cjfm_customize_fields_helper.php:130
+msgid "Field Label <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:59
+msgid "Heading Text <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:68 ..
+#: /options/cjfm_customize_fields_helper.php:77 ..
+#: /options/cjfm_customize_fields_helper.php:86 ..
+#: /options/cjfm_customize_fields_helper.php:96 ..
+#: /options/cjfm_customize_fields_helper.php:106 ..
+#: /options/cjfm_customize_fields_helper.php:117
+msgid "Label <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:70
+msgid "Paragraph Text <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:79
+msgid "HTML Code <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:119
+msgid "Default Value <i class=\"block red\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:120
+msgid "Set default value for this field."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:152
+msgid "Add new field"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:168 ..
+#: /options/cjfm_customize_fields_helper.php:332
+msgid "Unique Name <i class=\"red block\">(required)</i>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:169 ..
+#: /options/cjfm_customize_fields_helper.php:333
+msgid ""
+"<p><i class=\"red\">Must be unique. No spaces or special characters."
+"</i></p><p>Only Underscore (_) is allowed.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:198 ..
+#: /options/cjfm_customize_fields_helper.php:362
+msgid ""
+"Field Options <i class=\"red\">(required)</i> <span class=\"block\">(Radio "
+"Buttons, Checkboxes and Dropdowns)</span>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:199 ..
+#: /options/cjfm_customize_fields_helper.php:363
+msgid ""
+"<p>Each option per line <i class=\"red\">(Avoid special characters and "
+"spaces)</i></p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:208 ..
+#: /options/cjfm_customize_fields_helper.php:372
+msgid "Sort Order?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:218 ..
+#: /options/cjfm_customize_fields_helper.php:382
+msgid "Required Field?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:228 ..
+#: /options/cjfm_customize_fields_helper.php:392
+msgid "Include on profile page?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:238 ..
+#: /options/cjfm_customize_fields_helper.php:402
+msgid "Include on register page?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:248 ..
+#: /options/cjfm_customize_fields_helper.php:412
+msgid "Include on invitation form?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:258 ..
+#: /options/cjfm_customize_fields_helper.php:422
+msgid "Enabled?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:278 ..
+#: /options/cjfm_customize_fields_helper.php:442
+msgid "Placeholder text"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:288 ..
+#: /options/cjfm_customize_fields_helper.php:452
+msgid "Font Awesome Icon"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:316
+#, php-format
+msgid "Edit %s Settings"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_fields_helper.php:462
+msgid "Update Field"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:187
+msgid "Import/Export Fields Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:193
+msgid "Export Fields Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:194
+msgid ""
+"Copy this content and save it as is in a text file.<br>Make sure you do not "
+"make any changes to this string otherwise the import will fail."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:203
+msgid "Import Fields Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:204
+msgid "Paste previous saved custom fields data and hit Import Data button."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:213
+msgid "Import Data"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:215
+msgid "Go Back"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:235
+msgid "Import Export"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:236
+msgid "Create New Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:239
+msgid "Custom Registration & Profile Forms"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:244
+msgid "Form ID"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:245
+msgid "Form Name"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:246
+msgid "Default User Role"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:272
+msgid "Customize Fields"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_customize_forms.php:274
+msgid "Are you sure? All fields associated with this form will also be removed."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:71 ../options/cjfm_invitations.php:107
+msgid "Decline Invitation Request"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:77 ../options/cjfm_invitations.php:139 ..
+#: /options/cjfm_invitations_declined.php:52
+msgid "Email Address"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:91
+#, php-format
+msgid "Your %s invitation request is declined."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:98
+msgid ""
+"Dynamic variables will <b class=\"bold red\">not</b> work in this email "
+"message."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:134
+msgid "Invitation Requests ~ Awaiting Approval"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:160
+msgid "Decline"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations.php:170 ../options/cjfm_invitations_declined.php:81
+msgid "No new invitations found."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_invitations_declined.php:47
+msgid "Invitation Requests ~ Declined"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_maintenance_settings.php:31
+msgid ""
+"<h2>We will be right back</h2> <p>We are making some changes to our website."
+"</p> [cjfm_form_login redirect_url=\"\" user_login_label=\"\" user_pass_label=\"\" "
+"required_text=\"\" button_text=\"\" button_class=\"\" class=\"\"]"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:14
+msgid "Modal Box Forms"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:24
+msgid ""
+"Here you can manage login and registration forms that are displayed in a "
+"Modal box."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:30
+msgid "Enable modalbox forms?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:31
+msgid ""
+"<p>Once enabled, you can use css class names to display forms in a modalbox "
+"on click event.</p>\n"
+"					  <p> <code>.cjfm-show-login-form</code> Add this class to any link or "
+"button to display login form in a modalbox.</p>\n"
+"					  <p> <code>.cjfm-show-register-form</code> Add this class to any link "
+"or button to display registration form in a modalbox.</p>\n"
+"					  <p> <strong>Note: </strong>Modal links will not work on login and "
+"registration pages.</p>\n"
+"					  "
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:54
+msgid "Login form heading"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:55
+msgid "Specify a heading for login form."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:64
+msgid "Login form content & Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:65
+msgid ""
+"Specify content and shortcode for the login form to be displayed in the "
+"modal box."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:78
+msgid "Register Form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:84
+msgid "Register form heading"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:85
+msgid "Specify a heading for register form."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:94
+msgid "Register form content & Shortcode"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_modalbox_forms.php:95
+msgid ""
+"Specify content and shortcode for the register form to be displayed in the "
+"modal box."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:21
+msgid ""
+"Shortcodes have a lot more options, setting up the shortcodes via Shortcode "
+"Generator while editing or creating the pages is highly recommended."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:27
+msgid "Page Setup (Auto)"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:31
+msgid "Create Pages"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:31
+msgid ""
+"<b>Note:</b> If you have already used the auto page setup, this will remove "
+"the previously created pages and create new pages with default setup."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:38 ../options/cjfm_page_setup.php:48 ..
+#: /options/cjfm_page_setup.php:58 ../options/cjfm_page_setup.php:68 ..
+#: /options/cjfm_page_setup.php:78
+msgid "<p>Create or edit a page and use the following shortcode:</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_page_setup.php:77
+msgid "Profile Page"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:22
+msgid "Restricted Whole Website"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:23
+msgid ""
+"Choose yes if you wish to restrict all website pages except login, register "
+"and reset password page setup under this plugin settings.<p><b>NOTE:</b> If "
+"you select yes here, below settings will be overwritten.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:36
+msgid "Restrict Specific Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:46
+msgid "Selected content will be available only to logged in users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:52
+msgid "Restricted Pages"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:53
+msgid "Select pages you would like to restrict access only for logged in users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:62
+msgid "Restricted Categories"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:63
+msgid "Select categories you would like to restrict access only for logged in users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:72
+msgid "Restricted Tags"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:73 ../options/cjfm_restrict_content.php:93
+msgid "Select tags you would like to restrict access only for logged in users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:82
+msgid "Restricted Post Types"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:83
+msgid ""
+"Select custom post types you would like to restrict access only for logged "
+"in users."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:92
+msgid "Restricted Taxonomies"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:102
+msgid "Restrict Woocommerce"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:103
+msgid ""
+"Enable this option to restrict woocommerce pages and categories to only "
+"loggedin users.<br>Visitors will be redirected to specified login page."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:112
+msgid "Message to display?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:113
+msgid ""
+"<p>You can use following variables in this message."
+"</p><p><code>%%login_link%%</code>: This will be replaced by login link."
+"</p><code>%%register_link%%</code>: This will be replaced by register link."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:116
+msgid ""
+"<p>You must <b>%%login_link%%</b> or <b>%%register_link%%</b> to view this "
+"content.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:122
+msgid "User Only Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:126
+msgid ""
+"<p>You can use the following shortcode to display content only to loggedin "
+"users.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:126 ../options/cjfm_restrict_content.php:
+#: 136
+msgid ""
+"<p>Only logged in users can see the content within this shortcode, otherwise "
+"the above message will be displayed.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:132
+msgid "Visitors Only Content"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_restrict_content.php:136
+msgid ""
+"<p>You can use the following shortcode to display content only to visitors "
+"who are not loggedin to the site.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:21
+msgid "Information"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:25
+#, php-format
+msgid ""
+"<p>This plugin uses <b>HybridAuth</b> for social login features.</p> <p><a "
+"href=\"%s\" target=\"_blank\">Click here</a> to view provider setup instructions "
+"and other documentation.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:26
+msgid ""
+"Specify AppID/AppKey and AppSecret to enable social service and include the "
+"shortcode via our Shortcode Generator."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:32
+msgid "<b>Callback Url</b>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:37
+msgid ""
+"<p>You must replace <b>Google</b> with the service you are using when using "
+"the callback url.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:38
+msgid "<p>This may be required by some services to generate oAuth keys.</p>"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:44
+msgid "User must fill registration form"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:45
+msgid ""
+"If Yes, users will be redirected to default registration page and assigned "
+"custom form fields specified in the shortcode to complete their registration."
+"<br>\n"
+"				  If No, account will be created automatically and assigned default form "
+"fields under user profile."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:73
+#, php-format
+msgid "%s Configuration"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:79
+#, php-format
+msgid "%s AppID / AppKey"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:89
+#, php-format
+msgid "%s AppSecret"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:99
+#, php-format
+msgid "%s Button Text"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_social_login.php:103
+#, php-format
+msgid "Connect via %s"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:5
+msgid "light"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:6
+msgid "dark"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:80
+msgid "Enable Spam Protection on"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:90
+msgid "Spam Protection Type?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:95
+msgid "Question and Answer"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:106
+msgid "Question &amp; Answer Settings"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:112
+msgid "Spam Question?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:113
+msgid "You can type any question and specify an answer to the same below."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:116
+msgid "What color is snow?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:122
+msgid "Spam Answer?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:123
+msgid "This answer will be matched with the user input before processing the form."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:126
+msgid "white"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:132
+msgid "Spam Answer Placeholder?"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:133
+msgid "e.g. black or white"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:136
+msgid "black or white"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:150
+msgid "reCaptcha Settings"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:160
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Generate</a> reCAPTCHA API keys for this "
+"website or <a href=\"%s\" target=\"_blank\">Click here</a> to find out more "
+"about reCAPTCHA."
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:166
+msgid "reCaptcha Site Key"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:176
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:186
+msgid "reCaptcha Theme"
+msgstr ""
+
+# @ cjfm
+#: ../options/cjfm_spam_protection.php:196
+msgid "reCaptcha Language"
+msgstr ""
+
+#: ../options/cjfm_user_role_redirect.php:19
+msgid "Role based redirect"
+msgstr ""
+
+#: ../options/cjfm_user_role_redirect.php:28
+#, php-format
+msgid "Specify full valid Url to redirect users with %s role."
+msgstr ""
+
+#: ../options/cjfm_user_role_redirect.php:48
+msgid "Custom redirects saved successfully."
+msgstr ""
+
+# @ cjfm
+#: ../options/plugin_addon_options.php:5
+msgid "Facebook"
+msgstr ""
+
+# @ cjfm
+#: ../options/plugin_addon_options.php:6
+msgid "Twitter"
+msgstr ""
+
+# @ cjfm
+#: ../themes/default/index.php:23 ../themes/default/index.php:36 ..
+#: /themes/default/index.php:47
+msgid "Existing User? Sign In"
+msgstr ""
+
+# @ cjfm
+#: ../themes/default/index.php:27 ../themes/default/index.php:34 ..
+#: /themes/default/index.php:49
+msgid "New User? Create account"
+msgstr ""
+
+# @ cjfm
+#: ../themes/default/index.php:29 ../themes/default/index.php:40
+msgid "Connect via: "
+msgstr ""

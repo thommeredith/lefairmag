@@ -1,0 +1,41 @@
+/*
+Theme Name: Porto Child
+Theme URI: http://newsmartwave.net/wordpress/porto
+Author: SW-THEMES
+Author URI: http://newsmartwave.net/
+Description: Porto Responsive Wordpress + eCommerce Theme.
+Version: 1.1
+Template: porto
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: porto-child
+
+*/
+
+/*@import url("../porto/style.css");*/
+
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.pum-theme-8180 .pum-title, .pum-theme-default-theme .pum-title 
+{
+    
+    font-family: CRIMSON TEXT Important;
+    
+    font-size: 24px !important;
+    font-style: normal !important;
+    line-height: 36px !important;
+    font-weight: bolder !important;
+}
+.pum-theme-8180 .pum-title, .pum-theme-default-theme p
+{
+    padding-top: 20px !important;
+}
+.pum-theme-8180 .pum-title, .pum-theme-default-theme p em
+{
+    font-size: 15px !important;
+}
+.pum-theme-8180 .pum-container
+{
+	background-color: rgb(255, 255, 255) !important;
+}

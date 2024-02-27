@@ -1,0 +1,123 @@
+.vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+body {
+  font-family: "Open Sans", 'Verdana';
+  font-size: 14px;
+  font-weight: normal;
+  padding-top: 100px;
+}
+body p {
+  margin: 0px;
+}
+body a {
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+}
+body .wrap {
+  width: 600px;
+  margin: 0 auto;
+}
+body #logo {
+  text-align: center;
+  margin-bottom: 30px;
+}
+body #logo .logo-text {
+  margin-bottom: 10px;
+}
+body #logo img {
+  width: 300px;
+}
+body .title {
+  font-weight: bold;
+}
+body .title .pull-right,
+body .title .pull-left {
+  font-weight: normal;
+}
+body .control-group {
+  padding: 0px 0px 10px 0px !important;
+  margin: 0px !important;
+}
+body .control-group .cjfm-required {
+  color: red;
+}
+body .control-group {
+  margin-bottom: 15px;
+}
+body .control-group .cjfm-relative {
+  display: block;
+  position: relative;
+}
+body .control-group i.fa {
+  position: absolute;
+  color: #b3b3b3;
+  -webkit-transition: all 250ms ease;
+  -moz-transition: all 250ms ease;
+  -o-transition: all 250ms ease;
+  -ms-transition: all 250ms ease;
+  transition: all 250ms ease;
+}
+body .control-group:hover i.fa {
+  color: #333333;
+  -webkit-transition: all 250ms ease;
+  -moz-transition: all 250ms ease;
+  -o-transition: all 250ms ease;
+  -ms-transition: all 250ms ease;
+  transition: all 250ms ease;
+}
+body #content-links {
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 0px;
+}
+body .button-suffix {
+  display: none;
+}
+body span.bull {
+  display: inline-block;
+  padding: 0 10px;
+}
+body .content-panel {
+  width: 100%;
+  margin-bottom: 30px;
+}
+body .content-panel .content-title {
+  padding: 15px 20px;
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 400;
+}
+body .content-panel .content-sub-title {
+  padding: 15px 20px;
+  margin: 0px;
+  font-size: 16px;
+  font-weight: 400;
+}
+body .content-panel .content-body {
+  padding: 15px 20px 5px 20px;
+}
+body .content-panel .content-body p {
+  margin: 0px 0px 10px 0px;
+}
+body .content-panel .social-login {
+  padding: 15px 15px 5px 15px;
+}
+@media screen and (max-width: 1023px) {
+  .wrap {
+    width: 90% !important;
+    margin: 0 auto;
+  }
+}
+/* Targetting Webkit browsers only. FF will show the dropdown arrow with so much padding. */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  select {
+    padding-right: 18px;
+  }
+}
