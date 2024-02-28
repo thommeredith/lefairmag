@@ -4,12 +4,12 @@
 wordpress_sites:
   lefairmag.com:
     site_hosts:
-    - canonical: www.lefairmag.com
-      redirects:
-      - lefairmag.com
+      - canonical: www.lefairmag.com
+        redirects:
+          - lefairmag.com
     local_path: ../site
-    branch: master
-    repo: git@github.com:example/example.com.git
+    branch: main
+    repo: git@github.com:thommeredith/lefairmag.git
     repo_subtree_path: site
     multisite:
       enabled: false

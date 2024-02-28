@@ -1,11 +1,11 @@
 # Created by trellis-cli v1.11.1
 # Documentation: https://roots.io/trellis/docs/vault/
 
-vault_mysql_root_password: 02cT0z3qqtPdaUHrdXTrpKexVbMbsDI4VpaheVOKjtcVqi1XfbqwdCOHnHcpY6S5
+vault_mysql_root_password: stagingpw
 vault_users:
-- name: '{{ admin_user }}'
-  password: R60rATM1UXsC09IkV5IQcoDKFhaBgZGa5Dhe21tzqnp2GgA44RJVc8baEcUd5gey
-  salt: oK6UoGlE9ZCLKhPNJM2chVjR6OWf7cv7BpvjqVPxuRrekf6HxADKXbDBZy7mCgVQ
+  - name: "{{ admin_user }}"
+    password: R60rATM1UXsC09IkV5IQcoDKFhaBgZGa5Dhe21tzqnp2GgA44RJVc8baEcUd5gey
+    salt: oK6UoGlE9ZCLKhPNJM2chVjR6OWf7cv7BpvjqVPxuRrekf6HxADKXbDBZy7mCgVQ
 vault_wordpress_sites:
   lefairmag.com:
     admin_password: Wxv1cXZ7AcqCwgftNxLShkTy14sNjyISVCwxEvYSthFCOvZCbEqPk3hfMtD9CP2L

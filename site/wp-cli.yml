@@ -1,3 +1,8 @@
 path: web/wp
 server:
   docroot: web
+
+@staging:
+  ssh: web@104.131.148.232:/srv/www/lefairmag.com/current
+@production:
+  ssh: web@64.23.204.106/srv/www/lefairmag.com/current
